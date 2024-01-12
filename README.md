@@ -4,4 +4,4 @@
 
 [![FURIUM's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=contability)](https://github.com/contability/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contability&layout=compact&hide=java)](https://github.com/contability/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contability&layout=compact&hide=java&theme=neon)](https://github.com/contability/github-readme-stats)
