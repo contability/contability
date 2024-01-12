@@ -5,10 +5,10 @@
 <a href="#"><h3>:cyclone: Dashboard</h3></a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=contability&show_icons=true&theme=tokyonight" width=48%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=contability&show_icons=true&theme=tokyonight" width=54%/>
 </a>
 <a href="#">
- <img src="https://raw.githubusercontent.com/contability/github-stats/output/generated/languages.svg" width=51%/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contability&layout=compact&hide=java&theme=tokyonight" width=41%/>
 </a>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=contability" width=98%/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=contability&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
