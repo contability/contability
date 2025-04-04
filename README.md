@@ -14,13 +14,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=contability&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contability&theme=nord_dark" width=97%/>
 
+<!-- <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+<br/> -->
 
-<a href="#"><h3>:ghost: Skill</h3></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcontability%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]()
+<!-- <a href="#"><h3>:ghost: Skill</h3></a> -->
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcontability%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]() -->
 
 ![](https://raw.githubusercontent.com/contability/contability/main/assets/code.gif)
 
