@@ -4,15 +4,15 @@
 
 <a href="#"><h3>:cyclone: Dashboard</h3></a>
 
-<a href="#">
+<!-- <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=contability&show_icons=true&theme=tokyonight" width=54%/>
-</a>
+</a> -->
 <a href="#">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contability&layout=compact&hide=java&theme=tokyonight" width=41%/>
 </a>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=contability&theme=tokyonight" width=96%/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=contability&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contability&theme=nord_dark" width=97%/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=contability&theme=tokyonight" width=96%/> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=contability&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/> -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contability&theme=nord_dark" width=97%/> -->
 
 <!-- <br/>
 <br/>
